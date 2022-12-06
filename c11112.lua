@@ -27,4 +27,4 @@ function c11112.initial_effect(c)
 		end)
 	c:RegisterEffect(e)
 end
-Duel.LoadScript("JinxJanxs.lua")
+Duel.LoadScript("JinxJanx.lua")
